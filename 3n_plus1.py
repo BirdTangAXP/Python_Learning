@@ -27,9 +27,4 @@ while line[i] > 1 :
     
 
 
-
-#for j in range(i):
-#    print(int(line[j]))
-#    print("|")
-
 print("-----------length:",i,"-----------------Peak@",line[peak_id],"--------------")
